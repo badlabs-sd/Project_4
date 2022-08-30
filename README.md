@@ -13,7 +13,11 @@ West Nile Virus (WNV) is a viral illness largely spread by mosquitoes. The disea
 - Using an appropriate visual, come up with various insight about the data.
 
 ## Part-II
-### Statistically Analysis
+#### Statistically Analysis
 -  Exploring the statistically significant difference between the different mosquito species when looking at the occurrence of West Nile Virus
 - Analysing the Correlation and its statistically significance.
+
+#### Model
+-  Linear regression to determine how the independent variables affect the number of mosquitoes caught
+-  Logistic regression to determine how the independent variables affect West Nile Virus presence. Analyzing the model and the results and it's limitations
 
